@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 
-**gwabstech/gwabstech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+**
 - 🔭 I’m currently working on FoodGrubber android apps
 - 🌱 I’m currently learning  fastApi flutter, react nativ, nodejs and express and android jetpack compose 
 
