@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-**
 - 🔭 I’m currently working on FoodGrubber android apps
 - 🌱 I’m currently learning  fastApi flutter, react nativ, nodejs and express and android jetpack compose 
 
