@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Golden odds**
 
-- 🌱 I’m currently learning **Flutter, React Native,fastAPi NodeJs and Express, JetPack compose and Java Spring boota**
+- 🌱 I’m currently learning **Flutter, React Native,fastAPi NodeJs and Express, JetPack compose and Java Spring boot**
 
 - 💬 Ask me about **Java,kotlin,native android development**
 
