@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gwabstech" alt="gwabstech" /></a> </p>
 
-- 🔭 I’m currently working on **Golden odds**
+- 🔭 I’m currently working on Paywizzard bills payment app
 
-- 🌱 I’m currently learning **Flutter, React Native,fastAPi NodeJs and Express, JetPack compose and Java Spring boot**
+- 🌱 I’m an expart on  **Kotlin, Java, JetPack compose and Android View System(XML)**
 
 - 💬 Ask me about **Java,kotlin,native android development**
 
