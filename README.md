@@ -3,18 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gwabstech&label=Profile%20views&color=0e75b6&style=flat" alt="gwabstech" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gwabstech" alt="gwabstech" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gwabstech" alt="gwabstech" /></a> <p align="left">
 
-- 🔭 I’m currently working on Paywizzard bills payment app
+- 🔭 I’m currently working on **POS development projects** at BellBank.  
 
-- 🌱 I’m an expart on  **Kotlin, Java, JetPack compose and Android View System(XML)**
+- 🌱 I’m an expert in **Kotlin, Java, Jetpack Compose, and the Android View System (XML)**. I'm also exploring **RTOS POS development with C++** and backend development with **Spring Boot**.  
 
-- 💬 Ask me about **Java,kotlin,native android development**
+- 💼 Currently serving as the **Head of IT** at Viscount Microfinance Bank, where I lead innovative tech projects, including secure web applications and landing pages.  
 
-- 📫 How to reach me **Gwabstech@gmail.com**
+- 💬 Ask me about **Native Android development, Kotlin, Java, Jetpack Compose, RTOS POS development, and backend integration**.  
 
+- 📫 How to reach me: **Gwabstech@gmail.com**  
 
-<p align="left">
+</p>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
