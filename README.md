@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gwabstech" alt="gwabstech" /></a> <p align="left">
 
-- 🔭 I’m currently working on **POS development projects** at BellBank.  
+- 🔭 I’m currently working on **Android POS development projects** at BellBank.  
 
 - 🌱 I’m an expert in **Kotlin, Java, Jetpack Compose, and the Android View System (XML)**. I'm also exploring **RTOS POS development with C++** and backend development with **Spring Boot**.  
 
