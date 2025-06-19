@@ -9,7 +9,7 @@
 
 - 🌱 I’m an expert in **Kotlin, Java, Jetpack Compose, and the Android View System (XML)**. I'm also exploring **RTOS POS development with C++** and backend development with **Spring Boot**.  
 
-- 💼 Currently serving as the **Head of IT** at Viscount Microfinance Bank, where I lead innovative tech projects, including secure web applications and landing pages.  
+- 💼 Currently serving as the **Android POS Engineer** at BellBank Microfinance Bank and Teasy Mobile International, where I build innovative fintech projects, including Mobile banking apps, payment terminal and point of sales system for payment collections.  
 
 - 💬 Ask me about **Native Android development, Kotlin, Java, Jetpack Compose, RTOS POS development, and backend integration**.  
 
